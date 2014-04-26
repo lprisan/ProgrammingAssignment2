@@ -1,6 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
 ## Creates an enhanced matrix vector, including functions to 
 ## get and set the value of the matrix, as well as to get and 
 ## set the value of its inverse
